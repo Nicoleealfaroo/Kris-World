@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE=Kristyn Alfaro Salazar
+CORREO=nikitaalfaro1002@gmail.com
+MATERIAS=Mate, Historia, Química
